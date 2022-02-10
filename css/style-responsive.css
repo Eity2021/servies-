@@ -1,0 +1,32 @@
+
+
+@media(max-width:1199px){}
+
+@media(max-width:991px){
+     /* services complaint start */
+    .from {
+        padding: 10px 0px 0px 0px;
+        width: 75%;
+        margin: 0 auto;
+    }
+    
+   /* services complaint end */
+}
+
+@media(max-width:768px){
+
+
+}
+
+@media(max-width:576px){
+
+
+    /* services complaint start */
+    .from {
+        padding: 10px 0px 0px 0px;
+        width: 90%;
+        margin: 0 auto;
+    }
+    /* services complaint end */
+    
+}
